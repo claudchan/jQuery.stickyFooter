@@ -1,3 +1,9 @@
+/*!
+ * jQuery Sticky Footer V1.0
+ * Copyright (c) 2017 claudchan
+ * MIT license
+ */
+
 (function ($) {
 
   $.fn.stickyFooter = function (options) {
