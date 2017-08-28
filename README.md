@@ -1,5 +1,5 @@
 # jQuery.stickyFooter
-A Responsive Dynamic-Height Sticky Footer
+Responsive Dynamic-Height Sticky Footer
 
 ## Example
 
