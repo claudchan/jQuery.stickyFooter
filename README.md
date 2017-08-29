@@ -17,12 +17,12 @@ Responsive Dynamic-Height Sticky Footer
 &lt;/html></pre>
 
 ### JavaScript
-Default
+Initialize
 <pre>(function ($) {
   $('footer').stickyFooter();
 });</pre>
 
-Settings
+Default options
 <pre>(function ($) {
   $('footer').stickyFooter({
     wrapper: $('html'),
